@@ -1,0 +1,15 @@
+names:
+- boneanomaly
+- bonelesion
+- foreignbody
+- fracture
+- metal
+- periostealreaction
+- pronatorsign
+- softtissue
+- text
+nc: 9
+path: '../../input/murayolov5/data/images'
+train: 'train'
+val: 'valid'
+test: 'test'
