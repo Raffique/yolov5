@@ -1,0 +1,11 @@
+
+
+train: '../../input/murayolov5/data/images/train'
+val: '../../input/murayolov5/data/images/valid'
+test: '../../input/murayolov5/data/images/test'
+
+#number of classes
+nc: 9
+
+# class names
+names: ['boneanomaly','bonelesion','foreignbody','fracture','metal','periostealreaction','pronatorsign','softtissue','text']
